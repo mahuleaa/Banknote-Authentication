@@ -158,9 +158,6 @@ The dataset that we have used in our project is the [banknote authentication dat
 * The Random Forest algorithm has been implemented with the following parameters: number of decision trees to be constructed is 3, maximum depth of each tree is 10, information gain is calculated using Entropy of the nodes, minimum number of samples required to split the tree is 2, taking same instance of training dataset more than once to create a random subset training dataset is allowed.
 * The Support Vector Machine algorithm has been implemented with the following parameters: the learning rate is 0.001, the lambda parameter is 0.01 and the number of iterations are 1000.
 * Finally, the accuracy of all these algorithms are calculated and displayed in a tabular fashion for easy comparison.
-### * **Google Colab Link:**
-
-[https://drive.google.com/file/d/1wCDpxZA3qXIGJSI2_k30U-iSoD1AHkHh/view?usp=sharing](https://drive.google.com/file/d/1wCDpxZA3qXIGJSI2_k30U-iSoD1AHkHh/view?usp=sharing)
 
 
 ## 5.  RESULT
